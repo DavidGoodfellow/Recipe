@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RecipeMe</string>
+    <string name="overall_login">Log In or Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="keyword">Insert Keywords to Search</string>
+    <string name="facet">Faceted Search</string>
+    <string name="dish">Dish Type:</string>
+    <string name="health">Nutritional Constraints:</string>
+    <string name="cuisine">Type of Cuisine:</string>
+    <string name="saved">Saved Searches</string>
+    <string name="search">Search!</string>
+    <string name="guest">Continue as Guest</string>
+
+    <string-array name="dish_array">
+        <item>All</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Dessert</item>
+    </string-array>
+
+    <string-array name="health_array">
+        <item>All</item>
+        <item>Low Calorie</item>
+        <item>High Protein</item>
+        <item>Low Fat</item>
+    </string-array>
+
+    <string-array name="cuisine_array">
+        <item>All</item>
+        <item>Italian</item>
+        <item>American</item>
+        <item>Asian</item>
+        <item>French</item>
+        <item>Mexican</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
